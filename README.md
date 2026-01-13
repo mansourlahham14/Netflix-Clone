@@ -7,7 +7,7 @@ The application includes user authentication with **Firebase**, notifications po
 
 ## 🌐 Demo
 👉 [Live Demo]([Live Demo](https://your-live-site.com))  
-👉 GitHub Repo: https://github.com/USERNAME/NOME-REPO
+👉 GitHub Repo: [https://github.com/USERNAME/NOME-REPO](https://github.com/mansourlahham14/Netflix-Clone)
 
 ---
 
