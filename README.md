@@ -1,16 +1,39 @@
-# React + Vite
+# Netflix Clone 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **Netflix clone** built with **React JS**, using the **TMDB API** to fetch real-time movies and TV shows.  
+The application includes user authentication with **Firebase**, notifications powered by **React Toastify**, and navigation handled by **React Router**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Demo
+👉 Live Site: [https://nome-progetto.vercel.app ](https://netflix-clone-nine-beige.vercel.app/login)
+👉 GitHub Repo: [https://github.com/USERNAME/NOME-REPO](https://github.com/mansourlahham14/Netflix-Clone)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+- **React JS**
+- **JavaScript (ES6+)**
+- **TMDB API**
+- **Firebase (Authentication)**
+- **React Router DOM**
+- **React Toastify**
+- **HTML5**
+- **CSS3**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- User authentication (Login / Sign Up)
+- Protected routes
+- Browse movies and TV shows from TMDB
+- Dynamic categories (Trending, Top Rated, etc.)
+- Movie / TV show details page
+- Toast notifications for user feedback
+- Netflix-inspired UI
+- Fully responsive design
+
+---
+
