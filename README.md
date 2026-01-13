@@ -6,7 +6,7 @@ The application includes user authentication with **Firebase**, notifications po
 ---
 
 ## 🌐 Demo
-👉 [Live Demo]([Live Demo](https://your-live-site.com))  
+👉 Live Site: [https://nome-progetto.vercel.app ](https://netflix-clone-nine-beige.vercel.app/login)
 👉 GitHub Repo: [https://github.com/USERNAME/NOME-REPO](https://github.com/mansourlahham14/Netflix-Clone)
 
 ---
