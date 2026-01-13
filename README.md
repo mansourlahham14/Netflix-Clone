@@ -6,7 +6,7 @@ The application includes user authentication with **Firebase**, notifications po
 ---
 
 ## 🌐 Demo
-👉 Live Site: netflix-clone-git-main-mansours-projects-fe5f1687.vercel.app
+👉 Live Site: [netflix-clone-git-main-mansours-projects-fe5f1687.vercel.app](https://netflix-clone-git-main-mansours-projects-fe5f1687.vercel.app/login)
 👉 GitHub Repo: [https://github.com/USERNAME/NOME-REPO](https://github.com/mansourlahham14/Netflix-Clone)
 
 ---
